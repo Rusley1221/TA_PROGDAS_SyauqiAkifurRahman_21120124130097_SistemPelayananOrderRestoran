@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TA_Progdas_SyauqiAkifurRahman_21120124130097_SIstemPelayananOrder", "TA_Progdas_SyauqiAkifurRahman_21120124130097_SIstemPelayananOrder.vcxproj", "{4027F30C-DEB4-47E9-940B-043714B6880E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Debug|x64.ActiveCfg = Debug|x64
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Debug|x64.Build.0 = Debug|x64
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Debug|x86.Build.0 = Debug|Win32
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Release|x64.ActiveCfg = Release|x64
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Release|x64.Build.0 = Release|x64
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Release|x86.ActiveCfg = Release|Win32
+		{4027F30C-DEB4-47E9-940B-043714B6880E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
